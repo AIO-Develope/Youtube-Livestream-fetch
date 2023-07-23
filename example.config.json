@@ -1,0 +1,5 @@
+{
+  "channel_id": "youre_channel_id",
+  "api_key": "youre_google_api_key",
+  "json_file_path": "./links.json"
+}

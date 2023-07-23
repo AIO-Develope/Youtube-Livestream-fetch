@@ -9,7 +9,7 @@
     </div>
 </h1>
 
-This small script fetches your current YouTube livestream URL from a YouTube channel and can be placed in a JSON file, as demonstrated in this project.
+This small script fetches your current YouTube livestream URL from a YouTube channel and can be placed in a JSON file, as demonstrated in this project. This script relies on the Google YouTube API and is implemented in Python.
 
 # Installation
 ```
